@@ -1,0 +1,16 @@
+body {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 100vh;
+    width: 100%;
+    background:url("https://avatars.mds.yandex.net/get-altay/963534/2a00000162879ef50922685c6d85ad783d56/XXL") center no-repeat;
+    background-size: cover;
+}
+
+span {
+    font-size: 1.7rem;
+    font-family: sans-serif;
+    text-align: center !important;
+    font-weight: 100 !important;
+}
